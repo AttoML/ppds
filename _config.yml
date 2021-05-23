@@ -1,7 +1,7 @@
   
 title: AttoML
 url: "https://attoml.github.io"
-baseurl: "/attoml.github.io"
+baseurl: "/"
 
 footer: yes
 footer_url: "https://github.com/AttoML/"
