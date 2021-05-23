@@ -30,36 +30,35 @@ BOOKS
 YOUTUBE PLAYLISTS
 
 Khan Academy Statistics Playlist
-https://www.youtube.com/playlist?list=PL1328115D3D8A2566
+[https://www.youtube.com/playlist?list=PL1328115D3D8A2566]
 
 Josh Starmer - Statistics Fundamentals
-https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+[https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9]
 
 Krish Naik
-https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+[https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO]
 
-Great Learning    | Basic stat Refresher
-https://www.youtube.com/watch?v=Vfo5le26IhY
+Great Learning    | Basic stat Refresher [https://www.youtube.com/watch?v=Vfo5le26IhY]
 
 Simple Learning Pro
-https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR
+[https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR]
 
 WEBSITES
 
-https://www.statisticshowto.com/
+Statistics HowTo[https://www.statisticshowto.com/]
 
-https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics
+wiki [https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics]
 
-https://influentialpoints.com/Training/Elementary-statistics.htm
+elemStat [https://influentialpoints.com/Training/Elementary-statistics.htm]
 
 
 PROBABILITY
 
 Khan Academy Probability 
 
-https://www.youtube.com/playlist?list=PLC58778F28211FA19
+[https://www.youtube.com/playlist?list=PLC58778F28211FA19
 
-https://www.youtube.com/playlist?list=PLU5aQXLWR3_x1bjE2rbvRn8sse81AUYZk
+[https://www.youtube.com/playlist?list=PLU5aQXLWR3_x1bjE2rbvRn8sse81AUYZk
 
 Books
 
@@ -70,11 +69,11 @@ LINEAR ALGEBRA
 
 Fast-ai
 
-https://github.com/fastai/numerical-linearalgebra/blob/master/README.md
+[https://github.com/fastai/numerical-linearalgebra/blob/master/README.md
 
 Gilbert strang 
 
-https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C
+[https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C
 
 3b1b 
 
