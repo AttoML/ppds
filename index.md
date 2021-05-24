@@ -16,7 +16,7 @@ layout: default
 
 ## STATISTICS
 
-BOOKS
+##### BOOKS
 
 1.	An Introduction to Statistical Learning, Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 
@@ -27,77 +27,63 @@ BOOKS
 
 4.	“Statistics” by Freedman, Pisani and Purves.
 
-YOUTUBE PLAYLISTS
+#### YOUTUBE PLAYLISTS
 
 [Khan Academy Statistics Playlist](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 
 [Josh Starmer - Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9])
 
-[Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO])
+[Krish Naik - Statistics](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO])
 
-[Great Learning | Basic stat Refresher][https://www.youtube.com/watch?v=Vfo5le26IhY]
+[Great Learning - Basic Stat Refresher](https://www.youtube.com/watch?v=Vfo5le26IhY)
 
-Simple Learning Pro
-[https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR]
+[Simple Learning Pro](https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR])
+
 
 WEBSITES
 
-Statistics HowTo[https://www.statisticshowto.com/]
+[Statistics HowTo](https://www.statisticshowto.com/)
 
-wiki [https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics]
+[Wikipedia Stat Glossary](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics)
 
-elemStat [https://influentialpoints.com/Training/Elementary-statistics.htm]
+[Influential Points - Elementary Statistics](https://influentialpoints.com/Training/Elementary-statistics.htm)
+ 
+<br>
 
+## PROBABILITY
 
-PROBABILITY
+[Khan Academy Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
 
-Khan Academy Probability 
+[Khan Academy](https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/playlists)
 
-[https://www.youtube.com/playlist?list=PLC58778F28211FA19
-
-[https://www.youtube.com/playlist?list=PLU5aQXLWR3_x1bjE2rbvRn8sse81AUYZk
 
 Books
 
 Probability Theory: A Concise Course" by Y.A. Rozanov
 
+<br>
 
-LINEAR ALGEBRA
+## LINEAR ALGEBRA
 
-Fast-ai
+[Fast-ai](https://github.com/fastai/numerical-linearalgebra/blob/master/README.md)
 
-[https://github.com/fastai/numerical-linearalgebra/blob/master/README.md
+[Gilbert strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
-Gilbert strang 
+[3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-[https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C
+[Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 
-3b1b 
+<br>
 
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+## MACHINE LEARNING
 
-Khan Academy 
+[Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 
-https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0
+[Andrew ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
+[Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 
-MACHINE LEARNING
-
-Josh Starmer
-
-https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
-
-Andrew ng
-
-https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
-
-Krish Naik
-
-https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
-
-Machine learning mastery
-
-https://machinelearningmastery.com/start-here/
+[Machine learning mastery](https://machinelearningmastery.com/start-here/)
 
 
 BOOKS 
@@ -119,68 +105,71 @@ MACHINE LEARNING
 
 2.	Python Machine Learning, Sebastian Raschka   
 
+<br>
 
-MISC
+
+## MISC
 
 
 VISULIZATION
 
-https://www.data-to-viz.com/
+[DataToViz](https://www.data-to-viz.com/)
 
-https://www.python-graph-gallery.com/
+[Python Graph Gallery](https://www.python-graph-gallery.com/)
 
-https://www.r-graph-gallery.com/
+[R Graph Gallery](https://www.r-graph-gallery.com/)
 
-https://www.d3-graph-gallery.com/
+[D3 graph Gallery](https://www.d3-graph-gallery.com/)
 
 
 HANDS-ON
 
 
-https://www.kaggle.com/learn
+[Kaggle Learn](https://www.kaggle.com/learn)
 
-https://www.kaggle.com/questions-and-answers/64933
+[https://www.kaggle.com/getting-started/138532]
 
-https://www.kaggle.com/getting-started/138532
+[https://github.com/rouseguy/intro2stats]
 
-https://github.com/rouseguy/intro2stats
+[https://www.kaggle.com/questions-and-answers/64933]
 
-https://github.com/jrjohansson/scientific-python-lectures
+[https://github.com/jrjohansson/scientific-python-lectures]
 
-https://github.com/rasbt/python-machine-learning-book
+[https://github.com/rasbt/python-machine-learning-book]
 
 
 
 NEURAL NETWORKS – BASICS
 
-http://neuralnetworksanddeeplearning.com/
+[Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
-https://playground.tensorflow.org
+[Tensorflow Playground](https://playground.tensorflow.org)
 
 
 VISUAL LEARNING
 
-https://seeing-theory.brown.edu/
+[Seeing Theory](https://seeing-theory.brown.edu/)
 
-https://setosa.io/ev/
+[Setosa- Explained Visually](https://setosa.io/ev/)
 
-https://setosa.io/conditional/
+[r2d3]((http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
-http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
+[Immersive math](http://immersivemath.com/ila/)
 
-http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-
-http://immersivemath.com/ila/
-
-https://vas3k.com/blog/machine_learning/
-
-https://ml-playground.com/
+[ML-Playground](https://ml-playground.com/)
+ 
+[vas3k](https://vas3k.com/blog/machine_learning/)
 
 
 BLOG POSTS
 
-http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html
+[http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html](http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html)
 
 CHEAT SHEETS
 
-https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/
+[https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
+
+
+---
+ 
+#######Compiled by [@AttoMl](#)
