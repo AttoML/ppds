@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="text-align: center;"><h1>PLAC PREP DATA SCIENCE</h1></p>
+<p style="text-align: center;"><b> PLAC PREP DATA SCIENCE </b></p>
 <p style="text-align: center;">Resources</p>
 
 
@@ -17,7 +17,8 @@ layout: default
 
 ## STATISTICS
 
-* **BOOKS**
+**BOOKS**
+
 
 > An Introduction to Statistical Learning, _Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani_
 >
@@ -26,6 +27,7 @@ layout: default
 >	Elements of statistical learning, _Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie_
 >	
 >	Statistics,  _Freedman, Pisani and Purves_.
+
 
  
 * **YOUTUBE PLAYLISTS**
@@ -82,12 +84,12 @@ layout: default
 > *PYTHON*
 > 
 >> 1. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 
->>2. Python Data Science Handbook
+>> 2. Python Data Science Handbook
 >
-> * *R*
+> *R*
 >> 1.	R for Data Science
 >
-> * *MACHINE LEARNING*
+> *MACHINE LEARNING*
 >> 1. Aurélien Géron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
 >> 2. Python Machine Learning, Sebastian Raschka   
 
@@ -136,4 +138,4 @@ layout: default
 
 ---
  
-% Compiled by [@AttoMl](#)
+<footer>Compiled by [@AttoMl](#)</footer>
