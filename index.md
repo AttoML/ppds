@@ -30,7 +30,7 @@ layout: default
 
 
  
-* **YOUTUBE PLAYLISTS**
+**YOUTUBE PLAYLISTS**
 1. [Khan Academy Statistics Playlist](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 2. [Josh Starmer - Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9])
 3. [Krish Naik - Statistics](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO])
@@ -38,7 +38,7 @@ layout: default
 5. [Simple Learning Pro](https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR])
 
 
-* **WEBSITES**
+**WEBSITES**
 1. [Statistics HowTo](https://www.statisticshowto.com/)
 2. [Wikipedia Stat Glossary](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics)
 3. [Influential Points - Elementary Statistics](https://influentialpoints.com/Training/Elementary-statistics.htm)
@@ -48,12 +48,12 @@ layout: default
 
 ## PROBABILITY
 
-* **TUTORIALS**
+**TUTORIALS**
 1. [Khan Academy Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
 2. [Khan Academy](https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/playlists)
 
 
-* **BOOKS**
+**BOOKS**
 
 > Probability Theory: A Concise Course" by Y.A. Rozanov
 
@@ -71,16 +71,14 @@ layout: default
 
 ## MACHINE LEARNING
 
-* **TUTORIALS**
+**TUTORIALS**
 1. [Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 2. [Andrew ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 3. [Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 4. [Machine learning mastery](https://machinelearningmastery.com/start-here/)
 
 
-* **BOOKS** 
-
-
+**BOOKS** 
 > *PYTHON*
 > 
 >> 1. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 
@@ -99,14 +97,14 @@ layout: default
 ## MISC
 
 
-* **VISULIZATION**
+**VISULIZATION**
 1. [DataToViz](https://www.data-to-viz.com/)
 2. [Python Graph Gallery](https://www.python-graph-gallery.com/)
 3. [R Graph Gallery](https://www.r-graph-gallery.com/)
 4. [D3 graph Gallery](https://www.d3-graph-gallery.com/)
 
 
-* **HANDS-ON**
+**HANDS-ON**
 1. [Kaggle Learn](https://www.kaggle.com/learn)
 2. <https://www.kaggle.com/getting-started/138532>
 3. <https://github.com/rouseguy/intro2stats>
@@ -115,12 +113,12 @@ layout: default
 6. <https://github.com/rasbt/python-machine-learning-book>
 
 
-* **NEURAL NETWORKS – BASICS**
+**NEURAL NETWORKS – BASICS**
 1. [Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 2. [Tensorflow Playground](https://playground.tensorflow.org)
 
 
-* **VISUAL LEARNING**
+**VISUAL LEARNING**
 1.[Seeing Theory](https://seeing-theory.brown.edu/)
 2. [Setosa- Explained Visually](https://setosa.io/ev/)
 3. [r2d3]((http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
@@ -129,10 +127,10 @@ layout: default
 6. [vas3k](https://vas3k.com/blog/machine_learning/)
 
 
-* **BLOG POSTS**
+**BLOG POSTS**
 1. [http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html](http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html)
 
-* **CHEAT SHEETS**
+**CHEAT SHEETS**
 2. [https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 
 
