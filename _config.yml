@@ -1,7 +1,14 @@
   
-title: PPDS - Resources
+title: PPDS
 url: "https://attoml.github.io"
 baseurl: "/ppds"
+
+nav:
+ - name: "About"
+   link: "about"
+ - name: "COA"
+   link: "coa"
+
 
 
 
