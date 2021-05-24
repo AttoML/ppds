@@ -87,8 +87,8 @@ layout: default
 >> 1.	R for Data Science
 >
 > * *MACHINE LEARNING*
-> 1. Aurélien Géron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
-> 2. Python Machine Learning, Sebastian Raschka   
+>> 1. Aurélien Géron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
+>> 2. Python Machine Learning, Sebastian Raschka   
 
 <br>
 
@@ -135,4 +135,4 @@ layout: default
 
 ---
  
-#######Compiled by [@AttoMl](#)
+% Compiled by [@AttoMl](#)
