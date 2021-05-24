@@ -27,8 +27,8 @@
 > 
 > * Statistics,  _Freedman, Pisani and Purves_
 > 
->	* The Practically Cheating Statistics Handbook, _Deviant S_
->	
+> * The Practically Cheating Statistics Handbook, _Deviant S_
+> 
 
 <br>
 
