@@ -18,7 +18,7 @@ layout: default
 ## STATISTICS
 
 **BOOKS**
-
+>
 > An Introduction to Statistical Learning, _Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani_
 >
 > Statistics, _Robert S. Witte and John S. Witte_
