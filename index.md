@@ -126,8 +126,8 @@ layout: default
 * **VISUAL LEARNING**
 1.[Seeing Theory](https://seeing-theory.brown.edu/)
 2. [Setosa- Explained Visually](https://setosa.io/ev/)
-3. [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-4. [Immersive math](http://immersivemath.com/ila/)
+3. [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+4. [Immersive math](https://immersivemath.com/ila/)
 5. [ML-Playground](https://ml-playground.com/)
 6. [vas3k](https://vas3k.com/blog/machine_learning/)
 
@@ -143,16 +143,16 @@ layout: default
 
 &nbsp;
 <hr />
-<p style="text-align: center;">A work by <a href="https://github.com/AttoML/">AttoML</a>-23 May 2021</p>
+<p style="text-align: center;">A work by <a href="attoml.github.io">AttoML</a>-23 May 2021</p>
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="#" class="fa fa-twitter"></a>
-    <a href="#" class="fa fa-linkedin"></a>
-    <a href="#" class="fa fa-github"></a>
+    <a href="attoml.github.io" class="fa fa-twitter"></a>
+    <a href="attoml.github.io" class="fa fa-linkedin"></a>
+    <a href="attoml.github.io" class="fa fa-github"></a>
 </p>
 
 &nbsp;
