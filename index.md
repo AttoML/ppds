@@ -29,16 +29,13 @@ BOOKS
 
 YOUTUBE PLAYLISTS
 
-Khan Academy Statistics Playlist
-[https://www.youtube.com/playlist?list=PL1328115D3D8A2566]
+[Khan Academy Statistics Playlist](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 
-Josh Starmer - Statistics Fundamentals
-[https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9]
+[Josh Starmer - Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9])
 
-Krish Naik
-[https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO]
+[Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO])
 
-Great Learning    | Basic stat Refresher [https://www.youtube.com/watch?v=Vfo5le26IhY]
+[Great Learning | Basic stat Refresher][https://www.youtube.com/watch?v=Vfo5le26IhY]
 
 Simple Learning Pro
 [https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR]
