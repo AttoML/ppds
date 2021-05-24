@@ -21,11 +21,11 @@ layout: default
 
 > An Introduction to Statistical Learning, _Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani_
 >
->	Statistics, _Robert S. Witte and John S. Witte_
+> Statistics, _Robert S. Witte and John S. Witte_
 >	
 >	Elements of statistical learning, _Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie_
 >	
->	Statistics,  _Freedman, Pisani and Purves_.
+>	Statistics,  _Freedman, Pisani and Purves_
 
 
  
@@ -81,15 +81,16 @@ layout: default
 
 
 **BOOKS** 
-> *PYTHON*
+
+> 1. *PYTHON*
 > 
 >> 1. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 
 >> 2. Python Data Science Handbook
 >
-> *R*
+> 2. *R*
 >> 1.	R for Data Science
 >
-> *MACHINE LEARNING*
+> 3. *MACHINE LEARNING*
 >> 1. Aurélien Géron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
 >> 2. Python Machine Learning, Sebastian Raschka   
 
@@ -123,7 +124,7 @@ layout: default
 * **VISUAL LEARNING**
 1.[Seeing Theory](https://seeing-theory.brown.edu/)
 2. [Setosa- Explained Visually](https://setosa.io/ev/)
-3. [r2d3]((http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+3. [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 4. [Immersive math](http://immersivemath.com/ila/)
 5. [ML-Playground](https://ml-playground.com/)
 6. [vas3k](https://vas3k.com/blog/machine_learning/)
