@@ -26,9 +26,10 @@ layout: default
 >	Elements of statistical learning, _Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie_
 >	
 >	Statistics,  _Freedman, Pisani and Purves_
->
 
- 
+
+<br/>
+
 **YOUTUBE PLAYLISTS**
 
 1. [Khan Academy Statistics Playlist](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
