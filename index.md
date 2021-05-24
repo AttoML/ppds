@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 <p style="text-align: center;font-size:30px;"><b> PLAC PREP DATA SCIENCE </b></p>
 <p style="text-align: center;">Resources</p>
@@ -138,8 +136,6 @@ layout: default
 * **CHEAT SHEETS**
 1. [https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 
-
----
 
 &nbsp;
 <hr />
