@@ -24,8 +24,8 @@
 > 
 > * Elements of statistical learning, _Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie_
 > 
->	* Statistics,  _Freedman, Pisani and Purves_
->
+> * Statistics,  _Freedman, Pisani and Purves_
+>	
 
 <br>
 
