@@ -3,7 +3,7 @@
 <p style="text-align: center;font-size:30px;"><b> PLAC PREP DATA SCIENCE </b></p>
 <p style="text-align: center;">Extended Resources</p>
 
-<p style="font-size:10px;color: grey;"></t>Last updated : 24/05 13:50</i></p>
+<p style="font-size:8px;color: grey;"></t>Last updated : 24/05 13:50</i></p>
 
 
 ## CONTENTS
