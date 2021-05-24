@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 PLAC PREP DATA SCIENCE
 Resources
 
