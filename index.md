@@ -1,9 +1,9 @@
 
 
 <p style="text-align: center;font-size:30px;"><b> PLAC PREP DATA SCIENCE </b></p>
-<p style="text-align: center;">Resources</p>
+<p style="text-align: center;">Extended Resources</p>
 
-*Last updated : 24/05 13:45*
+<p style="font-size:10px;color: grey;"></t>Last updated : 24/05 13:50</i></p>
 
 
 ## CONTENTS
@@ -25,6 +25,8 @@
 > * Elements of statistical learning, _Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie_
 > 
 > * Statistics,  _Freedman, Pisani and Purves_
+> 
+>	* The Practically Cheating Statistics Handbook, _Deviant S_
 >	
 
 <br>
