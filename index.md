@@ -3,7 +3,8 @@
 <p style="text-align: center;font-size:30px;"><b> PLAC PREP DATA SCIENCE </b></p>
 <p style="text-align: center;">Extended Resources</p>
 
-<p style="font-size:8px;color: grey;"></t>Last updated : 24/05 13:50</i></p>
+<p style="font-size:15px;color: grey;"><i>Last updated : 24/05 13:50</i></p>
+
 
 
 ## CONTENTS
@@ -137,6 +138,14 @@
 
 * **CHEAT SHEETS**
 1. [https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
+
+---
+
+<p style="font-size:14px;"><i>We will be constantly updating resources, Do check once a while.</i></p>
+<p style="font-size:14px;"><i>Feel free to share any useful resource that you come across, google form links will be shared here later.</i></p>
+
+
+
 
 
 &nbsp;
