@@ -21,11 +21,11 @@
 > * An Introduction to Statistical Learning, _Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani_
 >
 > * Statistics, _Robert S. Witte and John S. Witte_
->	
->	* Elements of statistical learning, _Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie_
->	
+> 
+> * Elements of statistical learning, _Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie_
+> 
 >	* Statistics,  _Freedman, Pisani and Purves_
-
+>
 
 <br/>
 
