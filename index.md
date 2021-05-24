@@ -27,7 +27,7 @@
 >	* Statistics,  _Freedman, Pisani and Purves_
 >
 
-<br/>
+<br>
 
 **YOUTUBE PLAYLISTS**
 
