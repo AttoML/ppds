@@ -139,7 +139,7 @@
 
 &nbsp;
 <hr />
-<p style="text-align: center;">A work by <a href="https://attoml.github.io">AttoML</a>-23 May 2021</p>
+<p style="text-align: center;">A work by <a href="https://attoml.github.io/">AttoML</a>-23 May 2021</p>
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -147,8 +147,8 @@
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
     <a href="https://attoml.github.io/" class="fa fa-twitter"></a>
-    <a href="https://attoml.github.io" class="fa fa-linkedin"></a>
-    <a href="https://attoml.github.io" class="fa fa-github"></a>
+    <a href="https://attoml.github.io/" class="fa fa-linkedin"></a>
+    <a href="https://attoml.github.io/" class="fa fa-github"></a>
 </p>
 
 &nbsp;
