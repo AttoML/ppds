@@ -18,6 +18,7 @@ layout: default
 ## STATISTICS
 
 **BOOKS**
+
 >
 > An Introduction to Statistical Learning, _Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani_
 >
@@ -139,5 +140,19 @@ layout: default
 
 
 ---
- 
-Compiled by [@AttoMl](#)
+
+&nbsp;
+<hr />
+<p style="text-align: center;">A work by <a href="https://github.com/AttoML/">AttoML</a>-23 May 2021</p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="#" class="fa fa-twitter"></a>
+    <a href="#" class="fa fa-linkedin"></a>
+    <a href="#" class="fa fa-github"></a>
+</p>
+
+&nbsp;
