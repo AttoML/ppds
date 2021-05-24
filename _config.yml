@@ -1,9 +1,7 @@
   
 title: AttoML
 url: "https://attoml.github.io"
-baseurl: "/"
+baseurl: "/ppds"
 
-footer: yes
-footer_url: "https://github.com/AttoML/"
-footer_text: Say Hello..!
+
 
