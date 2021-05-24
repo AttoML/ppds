@@ -8,26 +8,28 @@ layout: default
 
 
 ## CONTENTS
-1.	Statistics
-2.	Probability
-3.	Linear Algebra
-4.	Machine learning
-5.	Misc
+1.	[Statistics](#statistics)
+2.	[Probability](#probability)
+3.	[Linear Algebra](#linear-algebra)
+4.	[Machine learning](#machine-learning)
+5.	[Misc](#misc)
 
 ## STATISTICS
 
-##### BOOKS
+**BOOKS**
 
-1.	An Introduction to Statistical Learning, Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+1.	An Introduction to Statistical Learning, _Gareth M. James, Daniela Witten, Trevor Hastie, Robert Tibshirani_
 
-2.	Statistics, Robert S. Witte and John S. Witte
+2.	Statistics, _Robert S. Witte and John S. Witte_
 
 
-3.	Elements of statistical learning, Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+3.	Elements of statistical learning, _Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie_
 
-4.	“Statistics” by Freedman, Pisani and Purves.
+4.	Statistics,  _Freedman, Pisani and Purves_.
 
-#### YOUTUBE PLAYLISTS
+ 
+**YOUTUBE PLAYLISTS**
+
 
 [Khan Academy Statistics Playlist](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 
@@ -40,7 +42,8 @@ layout: default
 [Simple Learning Pro](https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR])
 
 
-WEBSITES
+**WEBSITES**
+
 
 [Statistics HowTo](https://www.statisticshowto.com/)
 
@@ -50,20 +53,24 @@ WEBSITES
  
 <br>
 
+
 ## PROBABILITY
 
+**TUTORIALS**
 [Khan Academy Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
 
 [Khan Academy](https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/playlists)
 
 
-Books
+**BOOKS**
 
 Probability Theory: A Concise Course" by Y.A. Rozanov
 
 <br>
 
 ## LINEAR ALGEBRA
+
+**TUTORIALS**
 
 [Fast-ai](https://github.com/fastai/numerical-linearalgebra/blob/master/README.md)
 
@@ -77,6 +84,8 @@ Probability Theory: A Concise Course" by Y.A. Rozanov
 
 ## MACHINE LEARNING
 
+**TUTORIALS**
+
 [Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 
 [Andrew ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -86,20 +95,22 @@ Probability Theory: A Concise Course" by Y.A. Rozanov
 [Machine learning mastery](https://machinelearningmastery.com/start-here/)
 
 
-BOOKS 
+**BOOKS** 
 
 
-PYTHON
+*PYTHON*
 
-1.	Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 
+* Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 
 
-2.	Python Data Science Handbook
+* Python Data Science Handbook
 
-R
+
+*R*
 
 1.	R for Data Science
 
-MACHINE LEARNING
+
+*MACHINE LEARNING*
 
 1.	Aurélien Géron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
 
@@ -111,7 +122,8 @@ MACHINE LEARNING
 ## MISC
 
 
-VISULIZATION
+**VISULIZATION**
+
 
 [DataToViz](https://www.data-to-viz.com/)
 
@@ -122,31 +134,33 @@ VISULIZATION
 [D3 graph Gallery](https://www.d3-graph-gallery.com/)
 
 
-HANDS-ON
+**HANDS-ON**
 
 
 [Kaggle Learn](https://www.kaggle.com/learn)
 
-[https://www.kaggle.com/getting-started/138532]
+<https://www.kaggle.com/getting-started/138532>
 
-[https://github.com/rouseguy/intro2stats]
+<https://github.com/rouseguy/intro2stats>
 
-[https://www.kaggle.com/questions-and-answers/64933]
+<https://www.kaggle.com/questions-and-answers/64933>
 
-[https://github.com/jrjohansson/scientific-python-lectures]
+<https://github.com/jrjohansson/scientific-python-lectures>
 
-[https://github.com/rasbt/python-machine-learning-book]
+<https://github.com/rasbt/python-machine-learning-book>
 
 
 
-NEURAL NETWORKS – BASICS
+**NEURAL NETWORKS – BASICS**
+
 
 [Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
 [Tensorflow Playground](https://playground.tensorflow.org)
 
 
-VISUAL LEARNING
+**VISUAL LEARNING**
+
 
 [Seeing Theory](https://seeing-theory.brown.edu/)
 
@@ -161,11 +175,11 @@ VISUAL LEARNING
 [vas3k](https://vas3k.com/blog/machine_learning/)
 
 
-BLOG POSTS
+**BLOG POSTS**
 
 [http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html](http://www.jeannicholashould.com/what-i-learned-implementing-a-classifier-from-scratch.html)
 
-CHEAT SHEETS
+**CHEAT SHEETS**
 
 [https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 
