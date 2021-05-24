@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="text-align: center;"><b> PLAC PREP DATA SCIENCE </b></p>
+<p style="text-align: center;font-size:30px"><b> PLAC PREP DATA SCIENCE </b></p>
 <p style="text-align: center;">Resources</p>
 
 
@@ -138,4 +138,4 @@ layout: default
 
 ---
  
-<footer>Compiled by [@AttoMl](#)</footer>
+Compiled by [@AttoMl](#)
