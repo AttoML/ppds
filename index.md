@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="text-align: center;font-size:30px"><b> PLAC PREP DATA SCIENCE </b></p>
+<p style="text-align: center;font-size:30px;"><b> PLAC PREP DATA SCIENCE </b></p>
 <p style="text-align: center;">Resources</p>
 
 
