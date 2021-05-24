@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# PLAC PREP DATA SCIENCE
+<p style="text-align: center;"><h1>PLAC PREP DATA SCIENCE</h1></p>
+<p style="text-align: center;">Resources</p>
 
-#### Resources
+
 
 
 ## CONTENTS
